@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/Aleena279/Project1/tree/main)
+- <b>.Net FullStack Projects</b>
+  - eCommerce ASP.NET MVC application([https://github.com/Aleena279/complete-ecommerce-aspnet-mvc-application])
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/Aleena279/Project1/tree/main)
 
