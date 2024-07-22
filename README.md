@@ -4,10 +4,11 @@
 
 - <b>.Net FullStack Projects</b>
   - [eCommerce ASP.NET MVC application](https://github.com/Aleena279/complete-ecommerce-aspnet-mvc-application)
+<!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/Aleena279/Project1/tree/main)
 
-
+-->
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
