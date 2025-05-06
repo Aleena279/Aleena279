@@ -3,7 +3,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>.Net FullStack Projects</b>
-  - [eCommerce ASP.NET MVC application](https://github.com/Aleena279/BookShoppingCartMvc)
+  - [ETickets (eCommerce ASP.NET MVC application)](https://github.com/Aleena279/complete-ecommerce-aspnet-mvc-application)
+  - [BookShoppingCart (eCommerce ASP.NET MVC application)](https://github.com/Aleena279/BookShoppingCartMvc)
 <!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/Aleena279/Project1/tree/main)
