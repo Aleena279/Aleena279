@@ -5,6 +5,10 @@
 - <b>.Net FullStack Projects</b>
   - [ETickets (eCommerce ASP.NET MVC application)](https://github.com/Aleena279/complete-ecommerce-aspnet-mvc-application)
   - [BookShoppingCart (eCommerce ASP.NET MVC application)](https://github.com/Aleena279/BookShoppingCartMvc)
+ 
+- <b>PowerPlatform Projects</b>
+  -[IT Help Desk Ticketing System(PowerPlatform)](https://github.com/Aleena279/it-helpdesk-power-platform)
+  
 <!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/Aleena279/Project1/tree/main)
