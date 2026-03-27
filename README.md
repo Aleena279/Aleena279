@@ -7,7 +7,7 @@
   - [BookShoppingCart (eCommerce ASP.NET MVC application)](https://github.com/Aleena279/BookShoppingCartMvc)
  
 - <b>PowerPlatform Projects</b>
-  -[IT Help Desk Ticketing System(PowerPlatform)](https://github.com/Aleena279/it-helpdesk-power-platform)
+  - [IT Help Desk Ticketing System(PowerPlatform)](https://github.com/Aleena279/it-helpdesk-power-platform)
   
 <!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
